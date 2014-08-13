@@ -1,5 +1,4 @@
-Find out more here: www.jointswp.com  
-Demo: www.jointswp.com/demo
+This is a fork of jointswp. Seems like a good starting point,but not a fan of some of the assumptions made.
 
 ### A blank, Foundation 5 WordPress theme 
 A project by [@jeremyenglert](https://twitter.com/jeremyenglert) of The Ad Garage. [Follow me](https://twitter.com/jeremyenglert) on Twitter to keep up-to-date with JointsWP.
